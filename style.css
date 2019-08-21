@@ -1,0 +1,22 @@
+.erreur {
+    text-align: center;
+    font-size: 600%;
+    color: white
+    
+}
+
+.found {
+    text-align: center;
+    font-size: 250%;
+    color: white
+}
+.home {
+    text-align: center;
+    font-size: 150%;
+    color: white
+}
+body {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat
+}
